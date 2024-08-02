@@ -1,0 +1,6 @@
+.banner-image {
+    width: 100%;
+    height: auto;
+    max-height: 500px; /* Adjust this value as needed */
+    object-fit: cover; /* Ensures the image covers the container without being stretched */
+}
